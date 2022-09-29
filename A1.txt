@@ -1,0 +1,5 @@
+A1: Desenvolva um Appsite que multiplique dois números inteiros A e B, que são informados pelo usuário, utilizando somente somas. Proteja para que a digitação garanta que A seja maior que B bem como A e B sejam inteiros.
+Requisitos:
+1. Usar um arquivo javascript de configuração;
+2. Usar um arquivo javascript para a lógica do Appsite;
+3. Lista de dados.
